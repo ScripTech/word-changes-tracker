@@ -7,7 +7,7 @@ A small php library that tracks changes in two text inputs.
 
 ## Instalations:
 ```
-composer require EdilsonMucanze\WordChangesTracker
+  composer require edilson/word-changes-tracker
 ```
 
 ## In your app:
