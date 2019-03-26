@@ -4,7 +4,7 @@
     "keywords": [
         "changes tracker",
         "composer",
-        "package"
+        "package", "PHP Diff"
     ],
     "type": "library",
     "license": "MIT",
