@@ -14,7 +14,7 @@
             "email": "edilsonhmberto@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
