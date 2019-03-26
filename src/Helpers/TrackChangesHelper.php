@@ -60,8 +60,8 @@ class TrackChangesHelper{
             }else{
                 if($key == "</br>"){
                 }else{
-                    $this->StringResponse['new'] .= $key." ";
                     $this->StringResponse['old'] .= $key." ";
+                    $this->StringResponse['new'] .= $key." ";
                 }
             }
         }
